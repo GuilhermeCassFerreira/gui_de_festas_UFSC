@@ -1,0 +1,117 @@
+[
+  {
+    "codigo": "1",
+    "name": "Trote Integrado",
+    "data_evento": "01/04/2023 ás 15:00",
+    "local": "Praça da Cidadania (UFSC) - Florianópolis / Santa Catarina",
+    "valor": "45",
+    "mapa": {
+      "lat": "-27.599830132223484",
+      "lgn": "-48.51704830527177"
+    },
+    "fotos": [
+      {
+        "url": "https://produto-cheers.s3.amazonaws.com/media/event/banner/74fe1443edd2175bf7b28f376158dcca32a91c4c001115ecd5cf781cec7db451.png"
+      },
+      {
+        "url": "http://noticias.paginas.ufsc.br/files/2017/03/DSC_0055.jpg"
+      }
+    ],
+    
+    "video": "https://www.instagram.com/reel/CiI6i-2ghTw/?utm_source=ig_web_copy_link",
+    "email_evento": "ctc.troteintegrado@gmail.com",
+    "website": "https://www.cheersapp.com.br/evento/xxxi-trote-integrado-do-ctc-6878"
+  },
+    {
+    "codigo": "2",
+    "name": "Endireita UFSC",
+    "data_evento": "15/04/2023 ás 22:00",
+    "local": "STAGE MUSIC PARK - Florianópolis / Santa Catarina",
+    "valor": "95",
+    "mapa": {
+      "lat": "-27.475856182552807", 
+      "lgn": "-48.489400406112"
+    },
+    "fotos": [
+      {
+        "url": "https://pbs.twimg.com/media/CSbPSchUcAApdh3?format=jpg&name=900x900"
+      },
+      {
+        "url": "https://www.hittickets.com.br/admin/files/eventos/TR3BLP26yMkZUPzReKkf6jVehU4rub/imagem_de_banner.png?1680119719"
+      }
+    ],
+    
+     "video": "https://www.instagram.com/reel/CiJG1XdDP9A/?igshid=YmMyMTA2M2Y=",
+    "email_evento": "ctc.troteintegrado@gmail.com",
+    "website": "https://www.hittickets.com.br/evento/604/13-endireita-mc-don-juan-open-bar/?fbclid=PAAaY4Yv5F4HBCqKMwAJysQY-Dr9bvtjkwKzC25EWRiWT8lz89wK6TRTmVYN0"
+  },
+    {
+    "codigo": "3",
+    "name": "Insanitária",
+    "data_evento": "01/04/2023 ás 22:00",
+    "local": "Life Club Floripa - Florianópolis / Santa Catarina",
+    "valor": "75",
+    "mapa": {
+      "lat": "-27.599830132223484",
+      "lgn": "-48.51704830527177"
+    },
+    "fotos": [
+      {
+        "url": "https://produto-cheers.s3.amazonaws.com/media/event/banner/93a483432bfb8dcd064671f71b1135f383694277d80e87b6f5e996547c4f2d6c_hQMAnSR.png"
+      },
+      {
+        "url": "https://produto-cheers.s3.amazonaws.com/media/seller/profile/9d6fa751afc4c40a5a6743250767336b677f8584767c76bd701b410a57033a36.PNG"
+      }
+    ],
+    
+    "video": "https://www.instagram.com/reel/CjG1vklM_1V/?utm_source=ig_web_copy_link",
+    "email_evento": "festa.insanitaria@gmail.com",
+    "website": "https://www.cheersapp.com.br/evento/28a-insanitaria-6800"
+  },
+    {
+    "codigo": "4",
+    "name": "Uniland Festival",
+    "data_evento": "21 de abril • 07:00 até 23 de abril • 19:00",
+    "local": "CAVERÁ - Araranguá / Santa Catarina",
+    "valor": "Encerrado",
+    "mapa": {
+      "lat": "-27.599830132223484",
+      "lgn": "-48.51704830527177"
+    },
+    "fotos": [
+      {
+        "url": "https://produto-cheers.s3.amazonaws.com/media/event/banner/ee4b392f972c28f6f61594c306b3d2db11bbd141b9b08d678ddfacf60d97612b.png"
+      },
+      {
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6cZPai5TEI3O1FVG8Uxq7sXoo9dm6JcW1Hka1VkSg-pqs_FaeZLwofczAln_KTJnM4GE&usqp=CAU"
+      }
+    ],
+    
+    "video": "https://www.instagram.com/reel/Cps7sqgDd0U/?utm_source=ig_web_copy_link",
+    "email_evento": "fernanda.amorim@hitmakers.live",
+    "website": "https://www.cheersapp.com.br/evento/uniland-6722"
+  },
+    {
+    "codigo": "5",
+    "name": "Tourada",
+    "data_evento": "06/05/2023 ás 14:00",
+    "local": "Life Club Floripa - Florianópolis / Santa Catarina",
+    "valor": "75",
+    "mapa": {
+      "lat": "-27.599830132223484",
+      "lgn": "-48.51704830527177"
+    },
+    "fotos": [
+      {
+        "url": "https://produto-cheers.s3.amazonaws.com/media/event/banner/98c817984c5e6a01e2bead7ddd0d49226204a1247af21cce879395bb02c6e2d7_degfTfS.png"
+      },
+      {
+        "url": "https://images.sympla.com.br/5c8ba9d24bb72-xs.jpg"
+      }
+    ],
+    
+    "video": "https://www.instagram.com/reel/Clo9YKYpE4F/?utm_source=ig_web_copy_link",
+    "email_evento": "rebeccaarrc@gmail.com",
+    "website": "https://www.cheersapp.com.br/evento/xxv-tourada-open-bar-made-in-roca-7201"
+  }
+]
